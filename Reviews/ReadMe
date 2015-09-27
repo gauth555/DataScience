@@ -1,0 +1,4 @@
+Recommendation Engine
+---------------------
+
+This program is used to create a similarity between 2 users using the Euclidean distance. This can be further extended to create the similarity between two movies.
